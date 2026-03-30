@@ -25,7 +25,7 @@ Me encuentro en un viaje constante de aprendizaje en el mundo del desarrollo web
 ## 🤝 Conectemos
 ¡Siempre estoy abierto a charlar sobre tecnología, nuevos proyectos o colaboraciones!
 
-* 💼 **LinkedIn:** [linkedin.com/in/TU_PERFIL](https://www.linkedin.com/in/yorbis-lobo-2437233b9/))
+* 💼 **LinkedIn:** [link de mi perfil](https://www.linkedin.com/in/yorbis-lobo-2437233b9/)
 * 📧 **Email:** yorbis.dev@gmial.com
 * 🌍 **Ubicación:** Venezuela
 
