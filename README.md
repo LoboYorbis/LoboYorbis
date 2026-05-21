@@ -28,7 +28,7 @@ Mi entorno de trabajo no es negociable. Opero bajo la estabilidad y potencia de 
 ### 🤝 Conectemos Estratégicamente
 Estoy siempre abierto a discutir nuevas tecnologías, arquitectura de software o colaboraciones de alto nivel.
 
-- 💼 [**LinkedIn**](TU_LINK_AQUÍ)
+- 💼 [**LinkedIn**](www.linkedin.com/in/yorbis-lobo)
 - 📧 [**Email**](mailto:yorbis.dev@gmail.com)
 - 📍 **Ubicación:** Caracas, Venezuela
 
