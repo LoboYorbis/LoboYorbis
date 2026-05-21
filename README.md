@@ -1,36 +1,37 @@
-# ¡Hola! Soy Yorbis 👋 
+# ¡Hola! Soy Yorbis Lobo 🐺
 
-### 🚀 Desarrollador Frontend en evolución | Apasionado por el código y el diseño
+> **Software Architect in Evolution | Discipline & High Performance | 1% Better Every Day**
 
-Me encuentro en un viaje constante de aprendizaje en el mundo del desarrollo web. Actualmente domino las bases del diseño web y estoy sumergiéndome profundamente en la lógica de programación para crear experiencias digitales increíbles.
-
----
-
-## 🛠️ Mi Stack Tecnológico
-
-### 💻 Dominando actualmente:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 📚 Aprendiendo con todo:
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🎯 En el radar (Próximamente):
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-## 🤝 Conectemos
-¡Siempre estoy abierto a charlar sobre tecnología, nuevos proyectos o colaboraciones!
-
-* 💼 **LinkedIn:** [link de mi perfil](https://www.linkedin.com/in/yorbis-lobo-2437233b9/)
-* 📧 **Email:** yorbis.dev@gmial.com
-* 🌍 **Ubicación:** Venezuela
+Me encuentro en un viaje implacable hacia la maestría en el desarrollo de software. No solo escribo código; diseño experiencias digitales robustas, rápidas y escalables bajo la filosofía de **Wolf Dev Studio**.
 
 ---
 
-<p align="center">
-  <i>"El código es poesía, y yo apenas estoy escribiendo mis primeros versos."</i>
-</p>
+### 🚀 Mi Stack Tecnológico (Nivel Industrial)
+
+| Dominando Actualmente | Aprendiendo con Todo | En el Radar (Próximamente) |
+| :--- | :--- | :--- |
+| 🧱 **HTML5 / CSS3** | ⚛️ **React.js** | 🐍 **Python** |
+| 🎨 **UI/UX Design** | 🟨 **JavaScript (ES6+)** | 🐘 **PostgreSQL / MySQL** |
+| 🌿 **Git & GitHub** | 🚀 **Next.js** | 🐳 **Docker & Automation** |
+
+---
+
+### 🧠 El Ecosistema Wolf
+Mi entorno de trabajo no es negociable. Opero bajo la estabilidad y potencia de **Fedora Linux**, optimizando cada proceso para maximizar el rendimiento del hardware y la eficiencia del software.
+
+- 🏗️ **Infraestructura:** Docker containers para flujos de trabajo aislados.
+- 🤖 **Automatización:** n8n para conectar lógica de negocio con IA local (Ollama).
+- 📔 **Segundo Cerebro:** Obsidian para documentar la ingeniería detrás de cada proyecto.
+
+---
+
+### 🤝 Conectemos Estratégicamente
+Estoy siempre abierto a discutir nuevas tecnologías, arquitectura de software o colaboraciones de alto nivel.
+
+- 💼 [**LinkedIn**](TU_LINK_AQUÍ)
+- 📧 [**Email**](mailto:yorbis.dev@gmail.com)
+- 📍 **Ubicación:** Caracas, Venezuela
+
+---
+
+*"El código es mi poesía, y apenas estoy escribiendo los primeros versos de una obra maestra industrial."*
