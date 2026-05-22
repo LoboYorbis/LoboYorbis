@@ -2,7 +2,7 @@
 
 > **Software Architect in Evolution | Discipline & High Performance | 1% Better Every Day**
 
-Me encuentro en un viaje implacable hacia la maestría en el desarrollo de software. No solo escribo código; diseño experiencias digitales robustas, rápidas y escalables bajo la filosofía de **Wolf Dev Studio**.
+Diseñando software eficiente, rápido y con interfaces de alto impacto. Estudiante de Ingeniería en Informática y desarrollador independiente en Wolf Dev Studio. Buscando la optimización y el rendimiento en cada línea de código.
 
 ---
 
