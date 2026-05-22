@@ -34,4 +34,4 @@ Estoy siempre abierto a discutir nuevas tecnologías, arquitectura de software o
 
 ---
 
-*"El código es mi poesía, y apenas estoy escribiendo los primeros versos de una obra maestra industrial."*
+*Comprometido con la consistencia, el aprendizaje continuo y la optimización de sistemas. Esto es solo el inicio de lo que viene para Wolf Dev Studio.*
